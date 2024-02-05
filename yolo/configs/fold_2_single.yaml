@@ -1,0 +1,7 @@
+# Fold 1
+path: 
+train: /media/chs.gpu/DATA/hdd/chs.data/research-cancerPathology/aakash-rao-capstone-project/datasets/yolov5_single/fold_2/train/images  
+val: /media/chs.gpu/DATA/hdd/chs.data/research-cancerPathology/aakash-rao-capstone-project/datasets/yolov5_single/fold_2/val/images  
+test: /media/chs.gpu/DATA/hdd/chs.data/research-cancerPathology/aakash-rao-capstone-project/datasets/yolov5_single/test/images 
+names: 
+  0: 'cell'
